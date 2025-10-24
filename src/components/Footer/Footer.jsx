@@ -50,10 +50,6 @@ const Footer = () => {
               icon: <FaFacebook />,
               link: "https://www.facebook.com/share/177cc315VX/",
             },
-            // {
-            //   icon: <FaTwitter />,
-            //   link: "https://github.com/Dileep2327?tab=overview&from=2025-04-01&to=2025-04-30",
-            // },
             {
               icon: <FaLinkedin />,
               link: "https://www.linkedin.com/in/dokkari-dileep-308806333?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
